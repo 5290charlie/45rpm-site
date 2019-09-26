@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div class="members">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -10,14 +10,13 @@ layout: default
   {{ content }}
 
   {%- if site.members.size > 0 -%}
-    <h2 class="member-list-heading">{{ page.list_title | default: "Members" }}</h2>
     <ul class="member-list">
       {%- for member in site.members -%}
       <li>
         <h3>
           <a class="member-link" href="{{ member.url | relative_url }}">
             <img src="{{ member.avatar_path }}" />
-            {{ member.display_name }}
+            {{ member.display_name | escape }}
           </a>
         </h3>
       </li>

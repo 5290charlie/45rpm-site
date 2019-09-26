@@ -1,4 +1,5 @@
 ---
+layout: member
 short_name: jim
 display_name: Jim McClung
 avatar_path: >-
