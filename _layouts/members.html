@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.members.size > 0 -%}
+    <h2 class="member-list-heading">{{ page.list_title | default: "Members" }}</h2>
+    <ul class="member-list">
+      {%- for member in site.members -%}
+      <li>
+        <h3>
+          <a class="member-link" href="{{ member.url | relative_url }}">
+            <img src="{{ member.avatar_path }}" />
+            {{ member.display_name }}
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
