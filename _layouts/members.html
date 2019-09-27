@@ -15,8 +15,8 @@ layout: default
       <li>
         <h3>
           <a class="member-link" href="{{ member.url | relative_url }}">
-            <img src="{{ member.avatar_path }}" />
-            {{ member.display_name | escape }}
+            <img class="member-avatar" src="{{ member.avatar_path }}" />
+            <span class="member-name">{{ member.display_name | escape }}</span>
           </a>
         </h3>
       </li>

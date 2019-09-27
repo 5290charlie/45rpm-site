@@ -18,14 +18,12 @@ layout: default
           {{ gig.gig_date | date: date_format }}
           {{ gig.gig_time }}
         </span>
+        <p class="gig-address">{{ gig.address_textarea }}</p>
         <h3>
           <a class="gig-link" href="{{ gig.url | relative_url }}">
-            more
+            more info
           </a>
         </h3>
-        <p>
-          {{ gig.address_textarea }}
-        </p>
       </li>
       {%- endfor -%}
     </ul>
