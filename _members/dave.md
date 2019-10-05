@@ -2,7 +2,7 @@
 layout: member
 short_name: dave
 display_name: Dave Potter
-avatar_path: /upload/image/png/1569614620981_avatar_path_avatar.png
+avatar_path: /upload/image/png/1570298558485_avatar_path_dave.png
 email: null
 web: null
 twitter: null
