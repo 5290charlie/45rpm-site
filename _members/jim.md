@@ -2,8 +2,7 @@
 layout: member
 short_name: jim
 display_name: Jim McClung
-avatar_path: >-
-  /upload/image/png/1569536757712_avatar_path_482bc49b6f9fecd8aa4443ca379bbd69.png
+avatar_path: /upload/image/png/1570298573467_avatar_path_jim.png
 email: jimmymcclung@comcast.net
 web: null
 twitter: null
@@ -12,8 +11,4 @@ instagram: null
 linkedin: null
 
 ---
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet convallis justo, quis fermentum risus. Mauris quis consequat eros. Ut nunc orci, consequat ut nulla eu, auctor tristique odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sit amet erat sit amet lectus sodales sodales id vitae ipsum. Vivamus eget ipsum non quam lobortis finibus eu at tellus. Fusce nec commodo arcu. Duis sed est ut risus sollicitudin commodo ut non metus. Aenean ac ipsum mollis, consectetur felis cursus, vulputate augue. Quisque tincidunt ultrices semper. Nulla porttitor accumsan lobortis. Quisque scelerisque mauris eget vulputate maximus. Ut sed quam nisi.
-
-Duis eget sapien sagittis, varius purus vitae, laoreet enim. Mauris at dolor ut leo iaculis placerat at ac lectus. Vivamus interdum feugiat rutrum. Proin ornare ac lectus faucibus viverra. Morbi neque nisl, scelerisque eu felis eget, accumsan condimentum ligula. Vestibulum faucibus vestibulum mauris, in placerat magna egestas eu. Curabitur mattis consequat ipsum, sit amet varius libero ultrices suscipit. Pellentesque vitae nulla nec justo scelerisque rhoncus. Donec nibh quam, convallis eget tempus ac, rutrum quis enim. In at libero tincidunt, imperdiet ante non, tristique erat. Sed id ligula imperdiet, suscipit magna ac, vehicula tortor. Sed consectetur sodales arcu, quis accumsan felis. Sed rhoncus sem at purus rhoncus, id rutrum erat finibus. Pellentesque consectetur posuere augue ut condimentum.
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet convallis justo, quis fermentum risus. Mauris quis consequat eros. Ut nunc orci, consequat ut nulla eu, auctor tristique odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sit amet erat sit amet lectus sodales sodales id vitae ipsum. Vivamus eget ipsum non quam lobortis finibus eu at tellus. Fusce nec commodo arcu. Duis sed est ut risus sollicitudin commodo ut non metus. Aenean ac ipsum mollis, consectetur felis cursus, vulputate augue. Quisque tincidunt ultrices semper. Nulla porttitor accumsan lobortis. Quisque scelerisque mauris eget vulputate maximus. Ut sed quam nisi. Duis eget sapien sagittis, varius purus vitae, laoreet enim. Mauris at dolor ut leo iaculis placerat at ac lectus. Vivamus interdum feugiat rutrum. Proin ornare ac lectus faucibus viverra. Morbi neque nisl, scelerisque eu felis eget, accumsan condimentum ligula. Vestibulum faucibus vestibulum mauris, in placerat magna egestas eu. Curabitur mattis consequat ipsum, sit amet varius libero ultrices suscipit. Pellentesque vitae nulla nec justo scelerisque rhoncus. Donec nibh quam, convallis eget tempus ac, rutrum quis enim. In at libero tincidunt, imperdiet ante non, tristique erat. Sed id ligula imperdiet, suscipit magna ac, vehicula tortor. Sed consectetur sodales arcu, quis accumsan felis. Sed rhoncus sem at purus rhoncus, id rutrum erat finibus. Pellentesque consectetur posuere augue ut condimentum.</p>
