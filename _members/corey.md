@@ -2,8 +2,7 @@
 layout: member
 short_name: corey
 display_name: Corey Oxenbury
-avatar_path: >-
-  /upload/image/png/1569614598231_avatar_path_profile_image_path_ubuntu_logo_by_robzombiefan2121-d56rt0k.png
+avatar_path: /upload/image/png/1570298543161_avatar_path_corey.png
 email: null
 web: null
 twitter: null
@@ -12,4 +11,6 @@ instagram: null
 linkedin: null
 
 ---
+
 <p>Member bio ...</p>
+
