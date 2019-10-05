@@ -1,6 +1,6 @@
 ---
 layout: gig
-gig_date: 01/17/2019
+gig_date: 2/1/2020
 gig_time: '06:15 PM'
 address_textarea: |-
   1234 Example St

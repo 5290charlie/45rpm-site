@@ -13,10 +13,8 @@ layout: default
     <ul class="gig-list">
       {%- for gig in site.gigs -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="gig-meta">
-          {{ gig.gig_date | date: date_format }}
-          {{ gig.gig_time }}
+          {{ gig.gig_date }} {{ gig.gig_time }}
         </span>
         <p class="gig-address">{{ gig.address_textarea }}</p>
         <h3>
