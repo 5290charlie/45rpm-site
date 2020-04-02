@@ -1,6 +1,5 @@
 ---
 layout: member
-short_name: "joe"
 display_name: "Joe Smith"
 avatar_path: ""
 email:

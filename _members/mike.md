@@ -1,6 +1,5 @@
 ---
 layout: member
-short_name: mike
 display_name: Mike Lewis
 avatar_path: /upload/image/jpeg/1585791660404_avatar_path_IMG_2132.JPG
 email: null

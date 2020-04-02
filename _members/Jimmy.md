@@ -1,6 +1,5 @@
 ---
 layout: member
-short_name: jim
 display_name: Jim McClung
 avatar_path: /upload/image/jpeg/1585791822442_avatar_path_ME.jpg
 email: jimmymcclung@comcast.net
