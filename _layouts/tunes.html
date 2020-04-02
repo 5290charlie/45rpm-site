@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="tunes">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.tunes.size > 0 -%}
+    <ul class="tune-list">
+      {%- for tune in site.tunes -%}
+      <li>
+        <h3>
+          <a class="tune-link" href="{{ tune.url | relative_url }}">
+            <span class="tune-name">{{ tune.name | escape }}</span>
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
