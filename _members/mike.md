@@ -2,7 +2,7 @@
 layout: member
 short_name: mike
 display_name: Mike Lewis
-avatar_path: /upload/image/png/1570298588023_avatar_path_mike.png
+avatar_path: /upload/image/jpeg/1585791660404_avatar_path_IMG_2132.JPG
 email: null
 web: null
 twitter: null
