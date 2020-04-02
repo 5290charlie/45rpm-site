@@ -41,6 +41,8 @@ collections:
     output: true
   gigs:
     output: true
+  tunes:
+    output: true
   members:
     output: true
 
