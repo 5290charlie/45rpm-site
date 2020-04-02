@@ -1,10 +1,8 @@
 ---
 layout: gig
-gig_date: 2/1/2020
-gig_time: '06:15 PM'
-address_textarea: |-
-  1234 Example St
-  Denver CO, 80216
+gig_date: 03/11/2020
+gig_time: ''
+address_textarea: ''
 
 ---
-<p>An awesome gig is coming!!</p>
+<p><strong>No Gigs Scheduled at this time...🤣</strong></p>
