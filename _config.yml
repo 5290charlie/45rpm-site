@@ -41,10 +41,17 @@ collections:
     output: true
   gigs:
     output: true
+    icon: gitar
   tunes:
     output: true
+    icon: music
+    label: 'Sweet Tunes'
   members:
+    icon: user
+    label: 'Band Members'
     output: true
+    # permissions:
+    #   groups:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
