@@ -41,7 +41,7 @@ collections:
     output: true
   gigs:
     output: true
-    icon: gitar
+    icon: guitar
   tunes:
     output: true
     icon: music
