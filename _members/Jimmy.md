@@ -2,7 +2,7 @@
 layout: member
 display_name: Jim McClung
 avatar_path: >-
-  https://svig-testing-uploads.s3.amazonaws.com/default/Screen_Shot_2020-03-26_at_1.12.39_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULLKQYPFIBWME6LC%2F20200413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200413T012555Z&X-Amz-Expires=30&X-Amz-Signature=be53b98a0b4e2f273f32c040a85d5c66a417ff7ca7a123bf2a39c7d0161fdd80&X-Amz-SignedHeaders=host
+  https://sls-ci-svig-houndstooth-us-east-2-assets.s3.amazonaws.com/image/png/profile.png
 email: jimmymcclung@comcast.net
 web: null
 twitter: null
@@ -14,7 +14,9 @@ linkedin: null
 
 
 
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet convallis justo, quis fermentum risus. Mauris quis consequat eros. Ut nunc orci, consequat ut nulla eu, auctor tristique odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sit amet erat sit amet lectus sodales sodales id vitae ipsum. Vivamus eget ipsum non quam lobortis finibus eu at tellus. Fusce nec commodo arcu. Duis sed est ut risus sollicitudin commodo ut non metus. Aenean ac ipsum mollis, consectetur felis cursus, vulputate augue. Quisque tincidunt ultrices semper. Nulla porttitor accumsan lobortis. Quisque scelerisque mauris eget vulputate maximus. Ut sed quam nisi. Duis eget sapien sagittis, varius purus vitae, laoreet enim. Mauris at dolor ut leo iaculis placerat at ac lectus. Vivamus interdum feugiat rutrum. Proin ornare ac lectus faucibus viverra. Morbi neque nisl, scelerisque eu felis eget, accumsan condimentum ligula. Vestibulum faucibus vestibulum mauris, in placerat magna egestas eu. Curabitur mattis consequat ipsum, sit amet varius libero ultrices suscipit. Pellentesque vitae nulla nec justo scelerisque rhoncus. Donec nibh quam, convallis eget tempus ac, rutrum quis enim. In at libero tincidunt, imperdiet ante non, tristique erat. Sed id ligula imperdiet, suscipit magna ac, vehicula tortor. Sed consectetur sodales arcu, quis accumsan felis. Sed rhoncus sem at purus rhoncus, id rutrum erat finibus. Pellentesque consectetur posuere augue ut condimentum.</p>
+
 
 
 
