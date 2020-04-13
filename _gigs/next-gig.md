@@ -1,8 +1,10 @@
 ---
 layout: gig
 gig_date: 03/11/2020
-gig_time: ''
+gig_time: '05:00 PM'
 address_textarea: ''
 
 ---
+
 <p><strong>No Gigs Scheduled at this time...🤣</strong></p>
+
