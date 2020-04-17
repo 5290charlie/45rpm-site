@@ -6,9 +6,12 @@ post_time: '06:15 PM'
 categories:
   - example
   - stuff
+  - test
 
 ---
 
 
+
 New post content ...
+
 
