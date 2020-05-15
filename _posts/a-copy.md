@@ -1,13 +1,19 @@
 ---
 layout: post
-title: A New Post (by me)
+title: A New Post (edited)
 post_date: 01/01/2019
 post_time: '06:15 PM'
 categories:
   - example
   - stuff
+  - edited
 
 ---
-<p>New post content ...</p>
-<p>&nbsp;</p>
-<p>Hello world!</p>
+
+
+
+
+New post content ...
+
+
+has been edited :)
