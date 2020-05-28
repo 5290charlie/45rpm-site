@@ -5,7 +5,7 @@ avatar_path: >-
   https://sls-ci-svig-site-us-east-2-assets.s3.amazonaws.com/image/png/card-exp-ss.png
 email: jimmymcclung@comcast.net
 web: jimmymcclung.com
-twitter: twit
+twitter: twats
 facebook: jimmymcclung
 instagram: instajimmy
 linkedin: null
