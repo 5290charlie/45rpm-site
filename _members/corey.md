@@ -3,7 +3,7 @@ layout: member
 display_name: Corey Oxenbury
 avatar_path: /upload/image/jpeg/1585792031654_avatar_path_gigpic.jpg
 email: null
-web: corey.webpage
+web: null
 twitter: null
 facebook: null
 instagram: null
