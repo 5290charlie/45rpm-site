@@ -1,7 +1,8 @@
 ---
 layout: member
 display_name: Corey Oxenbury
-avatar_path: /upload/image/jpeg/1585792031654_avatar_path_gigpic.jpg
+avatar_path: >-
+  https://sls-ci-svig-site-us-east-2-assets.s3.amazonaws.com/image/png/bowtie_logo.png
 email: null
 web: null
 twitter: null
