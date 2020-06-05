@@ -8,13 +8,4 @@ categories:
   - stuff
 
 ---
-
-
-
-
-
 New post content ...
-
-
-
-
