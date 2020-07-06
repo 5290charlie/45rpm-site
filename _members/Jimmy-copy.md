@@ -2,7 +2,7 @@
 layout: member
 display_name: Jim McClung
 avatar_path: >-
-  https://sls-ci-svig-site-us-east-2-assets.s3.amazonaws.com/image/png/This-filename-hass-things-and-dollartuffpng
+  https://sls-ci-svig-site-us-east-2-assets.s3.amazonaws.com/image/png/This-filename-hass-things-and-dollartuff.png
 email: jimmymcclung@comcast.net
 web: null
 twitter: null
