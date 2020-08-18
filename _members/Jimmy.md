@@ -2,7 +2,7 @@
 layout: member
 display_name: Jim McClung
 avatar_path: >-
-  https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/image/png/bowtie-logo-png-transparent.png
+  https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/5290charlie/45rpm-site/image/svg+xml/1597777865510-npm-cube.svg
 email: jimmymcclung@comcast.net
 web: jimmymcclung.com
 twitter: twats
