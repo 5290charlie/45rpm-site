@@ -2,7 +2,7 @@
 layout: member
 display_name: Jim McClung
 avatar_path: >-
-  https://sls-ci-svig-site-sa-east-1-assets.s3.amazonaws.com/image/png/1606922139564-Screenshot-from-2020-09-30-08-40-01.png
+  https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/5290charlie/45rpm-site/1630617717833-me.jpg
 email: jimmymcclung@comcast.net
 web: null
 twitter: null
